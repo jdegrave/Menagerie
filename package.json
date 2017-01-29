@@ -1,0 +1,29 @@
+{
+  "name": "menagerie",
+  "version": "1.0.0",
+  "description": "menagerie exercise for Express Homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdegrave/Menagerie.git"
+  },
+  "keywords": [
+    "Menagerie",
+    "menagerie",
+    "express",
+    "Express"
+  ],
+  "author": "Jodi DeGrave",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdegrave/Menagerie/issues"
+  },
+  "homepage": "https://github.com/jdegrave/Menagerie#readme",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.0"
+  }
+}
