@@ -1,5 +1,7 @@
+### Note: This is the first exercise in [Homework 14](https://github.com/jdegrave/backend/tree/master/Homework/Homework-14/01-Your-Own-Menagerie)
 
-  - Create a new git repository
+
+  - Create a new git repos###itory
   - Create an Express API for the animals of your choice
     It should contain:
 
