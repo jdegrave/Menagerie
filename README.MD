@@ -1,4 +1,4 @@
-### Note: This is the first exercise in [Homework 14](https://github.com/jdegrave/backend/tree/master/Homework/Homework-14/01-Your-Own-Menagerie)
+### Note: This is the 01 Menagerie exercise in [Homework 14](https://github.com/jdegrave/backend/tree/master/Homework/Homework-14/01-Your-Own-Menagerie)
 
 
   - Create a new git repos###itory
